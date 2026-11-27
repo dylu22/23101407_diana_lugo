@@ -1,0 +1,735 @@
+2026-11-17 01:27:53.964 UTC [3700] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:27:54.043 UTC [3700] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.154 user=postgres database=comercial host=[local]
+2026-11-17 01:28:05.175 UTC [3709] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:28:05.177 UTC [3709] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:28:05.238 UTC [3709] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.205 user=postgres database=comercial host=[local]
+2026-11-17 01:28:58.006 UTC [3718] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:28:58.595 UTC [3718] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:28:58.818 UTC [3718] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.857 user=postgres database=comercial host=[local]
+2026-11-17 01:29:01.829 UTC [3726] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:29:01.892 UTC [3726] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:29:01.933 UTC [3726] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.104 user=postgres database=comercial host=[local]
+2026-11-17 01:29:07.491 UTC [3735] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:29:07.493 UTC [3735] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:29:07.495 UTC [3735] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:29:13.296 UTC [3743] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:29:13.298 UTC [3743] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:29:13.311 UTC [3743] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.014 user=postgres database=comercial host=[local]
+2026-11-17 01:29:18.768 UTC [3751] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:29:18.780 UTC [3751] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:29:18.782 UTC [3751] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.014 user=postgres database=comercial host=[local]
+2026-11-17 01:29:24.178 UTC [3759] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:29:24.180 UTC [3759] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:29:24.184 UTC [3759] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.006 user=postgres database=comercial host=[local]
+2026-11-17 01:29:28.510 UTC [3768] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:29:28.513 UTC [3768] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:29:28.515 UTC [3768] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:29:33.888 UTC [3776] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:29:33.890 UTC [3776] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:29:33.892 UTC [3776] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:29:39.308 UTC [3784] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:29:39.310 UTC [3784] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:29:39.312 UTC [3784] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:29:44.825 UTC [3793] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:29:44.827 UTC [3793] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:29:44.835 UTC [3793] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.010 user=postgres database=comercial host=[local]
+2026-11-17 01:29:50.266 UTC [3801] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:29:50.276 UTC [3801] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:29:50.278 UTC [3801] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.012 user=postgres database=comercial host=[local]
+2026-11-17 01:29:55.659 UTC [3809] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:29:55.670 UTC [3809] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:29:55.672 UTC [3809] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:30:00.102 UTC [3817] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:30:00.114 UTC [3817] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:30:00.117 UTC [3817] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.014 user=postgres database=comercial host=[local]
+2026-11-17 01:30:05.495 UTC [3826] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:30:05.499 UTC [3826] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:30:05.509 UTC [3826] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.015 user=postgres database=comercial host=[local]
+2026-11-17 01:30:10.830 UTC [3834] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:30:10.832 UTC [3834] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:30:10.835 UTC [3834] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:30:16.248 UTC [3843] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:30:16.250 UTC [3843] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:30:16.252 UTC [3843] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:30:21.718 UTC [3851] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:30:21.729 UTC [3851] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:30:21.732 UTC [3851] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:30:27.157 UTC [3860] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:30:27.158 UTC [3860] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:30:27.161 UTC [3860] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:30:32.525 UTC [3869] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:30:32.527 UTC [3869] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:30:32.530 UTC [3869] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:30:38.364 UTC [3877] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:30:38.366 UTC [3877] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:30:38.370 UTC [3877] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.006 user=postgres database=comercial host=[local]
+2026-11-17 01:30:43.748 UTC [3885] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:30:43.750 UTC [3885] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:30:43.759 UTC [3885] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.011 user=postgres database=comercial host=[local]
+2026-11-17 01:30:49.174 UTC [3894] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:30:49.177 UTC [3894] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:30:49.182 UTC [3894] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.007 user=postgres database=comercial host=[local]
+2026-11-17 01:30:56.209 UTC [3902] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:30:56.259 UTC [3902] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:30:56.261 UTC [3902] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.052 user=postgres database=comercial host=[local]
+2026-11-17 01:31:04.641 UTC [3911] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:31:04.650 UTC [3911] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:31:04.709 UTC [3911] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.066 user=postgres database=comercial host=[local]
+2026-11-17 01:31:10.326 UTC [3919] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:31:10.328 UTC [3919] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:31:10.332 UTC [3919] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.007 user=postgres database=comercial host=[local]
+2026-11-17 01:31:15.612 UTC [3927] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:31:15.614 UTC [3927] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:31:15.615 UTC [3927] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.003 user=postgres database=comercial host=[local]
+2026-11-17 01:31:21.174 UTC [3935] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:31:21.176 UTC [3935] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:31:21.190 UTC [3935] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.016 user=postgres database=comercial host=[local]
+2026-11-17 01:31:26.770 UTC [3944] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:31:26.771 UTC [3944] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:31:26.774 UTC [3944] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.012 user=postgres database=comercial host=[local]
+2026-11-17 01:31:32.312 UTC [3952] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:31:32.320 UTC [3952] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:31:32.324 UTC [3952] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.011 user=postgres database=comercial host=[local]
+2026-11-17 01:31:37.021 UTC [3961] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:31:37.023 UTC [3961] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:31:37.026 UTC [3961] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:31:42.437 UTC [3969] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:31:42.448 UTC [3969] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:31:42.451 UTC [3969] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.014 user=postgres database=comercial host=[local]
+2026-11-17 01:31:47.789 UTC [3978] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:31:47.790 UTC [3978] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:31:47.803 UTC [3978] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.014 user=postgres database=comercial host=[local]
+2026-11-17 01:31:53.146 UTC [3986] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:31:53.162 UTC [3986] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:31:53.168 UTC [3986] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.021 user=postgres database=comercial host=[local]
+2026-11-17 01:31:58.594 UTC [3994] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:31:58.604 UTC [3994] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:31:58.606 UTC [3994] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:32:03.895 UTC [4003] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:32:03.897 UTC [4003] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:32:03.899 UTC [4003] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.003 user=postgres database=comercial host=[local]
+2026-11-17 01:32:08.453 UTC [4011] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:32:08.459 UTC [4011] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:32:08.466 UTC [4011] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:32:13.759 UTC [4019] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:32:13.761 UTC [4019] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:32:13.764 UTC [4019] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:32:19.084 UTC [4027] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:32:19.086 UTC [4027] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:32:19.089 UTC [4027] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.006 user=postgres database=comercial host=[local]
+2026-11-17 01:32:24.423 UTC [4035] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:32:24.432 UTC [4035] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:32:24.435 UTC [4035] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.012 user=postgres database=comercial host=[local]
+2026-11-17 01:32:29.815 UTC [4044] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:32:29.817 UTC [4044] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:32:29.820 UTC [4044] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:32:35.156 UTC [4052] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:32:35.157 UTC [4052] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:32:35.160 UTC [4052] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:32:39.555 UTC [4060] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:32:39.557 UTC [4060] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:32:39.559 UTC [4060] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:32:44.905 UTC [4069] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:32:44.907 UTC [4069] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:32:44.910 UTC [4069] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:32:50.209 UTC [4077] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:32:50.211 UTC [4077] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:32:50.213 UTC [4077] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:32:55.596 UTC [4085] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:32:55.598 UTC [4085] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:32:55.601 UTC [4085] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:33:01.001 UTC [4093] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:33:01.002 UTC [4093] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:33:01.015 UTC [4093] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.014 user=postgres database=comercial host=[local]
+2026-11-17 01:33:06.291 UTC [4102] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:33:06.293 UTC [4102] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:33:06.296 UTC [4102] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:33:10.656 UTC [4110] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:33:10.667 UTC [4110] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:33:10.670 UTC [4110] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.014 user=postgres database=comercial host=[local]
+2026-11-17 01:33:16.017 UTC [4118] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:33:16.019 UTC [4118] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:33:16.030 UTC [4118] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:33:21.634 UTC [4126] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:33:21.635 UTC [4126] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:33:21.638 UTC [4126] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:33:26.967 UTC [4135] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:33:26.974 UTC [4135] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:33:26.976 UTC [4135] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.009 user=postgres database=comercial host=[local]
+2026-11-17 01:33:32.415 UTC [4144] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:33:32.424 UTC [4144] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:33:32.427 UTC [4144] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.012 user=postgres database=comercial host=[local]
+2026-11-17 01:33:37.954 UTC [4152] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:33:37.963 UTC [4152] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:33:37.965 UTC [4152] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.012 user=postgres database=comercial host=[local]
+2026-11-17 01:33:42.286 UTC [4160] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:33:42.288 UTC [4160] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:33:42.290 UTC [4160] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:33:47.668 UTC [4169] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:33:47.670 UTC [4169] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:33:47.672 UTC [4169] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:33:53.038 UTC [4177] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:33:53.040 UTC [4177] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:33:53.045 UTC [4177] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.007 user=postgres database=comercial host=[local]
+2026-11-17 01:33:58.355 UTC [4185] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:33:58.366 UTC [4185] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:33:58.369 UTC [4185] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.014 user=postgres database=comercial host=[local]
+2026-11-17 01:34:03.752 UTC [4193] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:34:03.754 UTC [4193] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:34:03.756 UTC [4193] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:34:09.163 UTC [4202] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:34:09.164 UTC [4202] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:34:09.168 UTC [4202] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:34:13.651 UTC [4210] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:34:13.660 UTC [4210] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:34:13.663 UTC [4210] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.012 user=postgres database=comercial host=[local]
+2026-11-17 01:34:19.152 UTC [4218] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:34:19.180 UTC [4218] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:34:19.182 UTC [4218] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.030 user=postgres database=comercial host=[local]
+2026-11-17 01:34:24.623 UTC [4226] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:34:24.625 UTC [4226] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:34:24.640 UTC [4226] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.017 user=postgres database=comercial host=[local]
+2026-11-17 01:34:30.091 UTC [4235] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:34:30.102 UTC [4235] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:34:30.104 UTC [4235] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.014 user=postgres database=comercial host=[local]
+2026-11-17 01:34:35.655 UTC [4243] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:34:35.657 UTC [4243] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:34:35.659 UTC [4243] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.012 user=postgres database=comercial host=[local]
+2026-11-17 01:34:41.122 UTC [4251] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:34:41.128 UTC [4251] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:34:41.130 UTC [4251] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.008 user=postgres database=comercial host=[local]
+2026-11-17 01:34:43.331 UTC [4252] user=[unknown] db=[unknown] app=[unknown] client=172.21.0.1 LOG:  connection received: host=172.21.0.1 port=56518
+2026-11-17 01:34:43.411 UTC [4252] user=soporte_ana db=comercial app=[unknown] client=172.21.0.1 LOG:  connection authenticated: identity="soporte_ana" method=scram-sha-256 (/var/lib/postgresql/data/pg_hba.conf:128)
+2026-11-17 01:34:43.412 UTC [4252] user=soporte_ana db=comercial app=[unknown] client=172.21.0.1 LOG:  connection authorized: user=soporte_ana database=comercial application_name=psql
+2026-11-17 01:34:43.502 UTC [4252] user=soporte_ana db=comercial app=psql client=172.21.0.1 LOG:  disconnection: session time: 0:00:00.175 user=soporte_ana database=comercial host=172.21.0.1 port=56518
+2026-11-17 01:34:45.645 UTC [4261] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:34:45.646 UTC [4261] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:34:45.657 UTC [4261] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:34:51.072 UTC [4270] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:34:51.074 UTC [4270] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:34:51.077 UTC [4270] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:34:56.440 UTC [4278] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:34:56.442 UTC [4278] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:34:56.444 UTC [4278] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:35:01.845 UTC [4286] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:35:01.847 UTC [4286] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:35:01.849 UTC [4286] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:35:07.258 UTC [4295] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:35:07.259 UTC [4295] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:35:07.271 UTC [4295] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:35:12.718 UTC [4303] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:35:12.720 UTC [4303] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:35:12.732 UTC [4303] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.014 user=postgres database=comercial host=[local]
+2026-11-17 01:35:17.244 UTC [4311] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:35:17.253 UTC [4311] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:35:17.255 UTC [4311] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.011 user=postgres database=comercial host=[local]
+2026-11-17 01:35:21.747 UTC [4318] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:35:21.749 UTC [4318] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=psql
+2026-11-17 01:35:22.675 UTC [4326] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:35:22.677 UTC [4326] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:35:22.680 UTC [4326] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:35:27.720 UTC [4318] user=postgres db=comercial app=psql client=[local] LOG:  statement: UPDATE clientes SET segmento = 'regular';
+2026-11-17 01:35:28.100 UTC [4335] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:35:28.102 UTC [4335] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:35:28.104 UTC [4335] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:35:33.413 UTC [4343] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:35:33.414 UTC [4343] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:35:33.417 UTC [4343] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:35:38.789 UTC [4351] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:35:38.794 UTC [4351] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:35:38.798 UTC [4351] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.010 user=postgres database=comercial host=[local]
+2026-11-17 01:35:44.187 UTC [4360] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:35:44.189 UTC [4360] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:35:44.192 UTC [4360] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:35:48.665 UTC [4368] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:35:48.666 UTC [4368] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:35:48.678 UTC [4368] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:35:54.216 UTC [4376] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:35:54.226 UTC [4376] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:35:54.229 UTC [4376] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:35:59.574 UTC [4384] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:35:59.576 UTC [4384] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:35:59.578 UTC [4384] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:36:04.869 UTC [4393] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:36:04.871 UTC [4393] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:36:04.874 UTC [4393] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:36:10.144 UTC [4401] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:36:10.149 UTC [4401] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:36:10.154 UTC [4401] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.010 user=postgres database=comercial host=[local]
+2026-11-17 01:36:15.431 UTC [4409] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:36:15.440 UTC [4409] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:36:15.443 UTC [4409] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.012 user=postgres database=comercial host=[local]
+2026-11-17 01:36:20.321 UTC [4417] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:36:20.330 UTC [4417] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:36:20.333 UTC [4417] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.011 user=postgres database=comercial host=[local]
+2026-11-17 01:36:26.334 UTC [4427] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:36:26.336 UTC [4427] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:36:26.339 UTC [4427] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:36:31.822 UTC [4435] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:36:31.824 UTC [4435] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:36:31.834 UTC [4435] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:36:37.307 UTC [4443] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:36:37.318 UTC [4443] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:36:37.320 UTC [4443] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:36:42.760 UTC [4451] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:36:42.770 UTC [4451] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:36:42.772 UTC [4451] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.012 user=postgres database=comercial host=[local]
+2026-11-17 01:36:48.188 UTC [4460] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:36:48.200 UTC [4460] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:36:48.203 UTC [4460] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.015 user=postgres database=comercial host=[local]
+2026-11-17 01:36:52.725 UTC [4468] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:36:52.727 UTC [4468] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:36:52.730 UTC [4468] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:36:58.279 UTC [4475] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:36:58.280 UTC [4475] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:36:58.283 UTC [4475] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:37:03.694 UTC [4483] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:37:03.696 UTC [4483] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:37:03.699 UTC [4483] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:37:09.075 UTC [4492] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:37:09.087 UTC [4492] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:37:09.090 UTC [4492] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.014 user=postgres database=comercial host=[local]
+2026-11-17 01:37:14.417 UTC [4500] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:37:14.419 UTC [4500] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:37:14.422 UTC [4500] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:37:19.710 UTC [4508] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:37:19.711 UTC [4508] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:37:19.717 UTC [4508] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.007 user=postgres database=comercial host=[local]
+2026-11-17 01:37:24.059 UTC [4516] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:37:24.061 UTC [4516] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:37:24.065 UTC [4516] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.007 user=postgres database=comercial host=[local]
+2026-11-17 01:37:29.269 UTC [4525] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:37:29.272 UTC [4525] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:37:29.275 UTC [4525] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.006 user=postgres database=comercial host=[local]
+2026-11-17 01:37:34.553 UTC [4533] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:37:34.554 UTC [4533] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:37:34.556 UTC [4533] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.003 user=postgres database=comercial host=[local]
+2026-11-17 01:37:39.850 UTC [4541] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:37:39.852 UTC [4541] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:37:39.855 UTC [4541] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:37:45.037 UTC [4550] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:37:45.039 UTC [4550] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:37:45.041 UTC [4550] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:37:50.381 UTC [4558] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:37:50.383 UTC [4558] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:37:50.385 UTC [4558] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:37:54.504 UTC [4567] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:37:54.506 UTC [4567] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:37:54.508 UTC [4567] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:37:59.865 UTC [4575] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:37:59.872 UTC [4575] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:37:59.875 UTC [4575] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.012 user=postgres database=comercial host=[local]
+2026-11-17 01:38:05.269 UTC [4584] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:38:05.270 UTC [4584] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:38:05.283 UTC [4584] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.014 user=postgres database=comercial host=[local]
+2026-11-17 01:38:10.728 UTC [4592] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:38:10.731 UTC [4592] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:38:10.734 UTC [4592] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.006 user=postgres database=comercial host=[local]
+2026-11-17 01:38:16.379 UTC [4601] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:38:16.381 UTC [4601] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:38:16.383 UTC [4601] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:38:21.826 UTC [4609] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:38:21.828 UTC [4609] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:38:21.831 UTC [4609] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:38:26.618 UTC [4619] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:38:26.620 UTC [4619] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:38:26.631 UTC [4619] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:38:32.083 UTC [4627] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:38:32.085 UTC [4627] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:38:32.092 UTC [4627] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.010 user=postgres database=comercial host=[local]
+2026-11-17 01:38:37.399 UTC [4635] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:38:37.402 UTC [4635] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:38:37.406 UTC [4635] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.007 user=postgres database=comercial host=[local]
+2026-11-17 01:38:41.486 UTC [29] user= db= app= client= LOG:  checkpoint starting: time
+2026-11-17 01:38:42.305 UTC [29] user= db= app= client= LOG:  checkpoint complete: wrote 8 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.765 s, sync=0.015 s, total=0.834 s; sync files=7, longest=0.007 s, average=0.003 s; distance=13 kB, estimate=13 kB; lsn=0/19BCA10, redo lsn=0/19BC9D8
+2026-11-17 01:38:42.669 UTC [4643] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:38:42.672 UTC [4643] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:38:42.674 UTC [4643] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.006 user=postgres database=comercial host=[local]
+2026-11-17 01:38:48.065 UTC [4652] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:38:48.067 UTC [4652] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:38:48.070 UTC [4652] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:38:53.280 UTC [4660] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:38:53.286 UTC [4660] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:38:53.289 UTC [4660] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.008 user=postgres database=comercial host=[local]
+2026-11-17 01:38:57.723 UTC [4668] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:38:57.731 UTC [4668] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:38:57.738 UTC [4668] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.015 user=postgres database=comercial host=[local]
+2026-11-17 01:39:01.243 UTC [4318] user=postgres db=comercial app=psql client=[local] LOG:  disconnection: session time: 0:03:39.495 user=postgres database=comercial host=[local]
+2026-11-17 01:39:03.111 UTC [4676] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:39:03.113 UTC [4676] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:39:03.124 UTC [4676] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.014 user=postgres database=comercial host=[local]
+2026-11-17 01:39:08.306 UTC [4685] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:39:08.308 UTC [4685] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:39:08.311 UTC [4685] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:39:13.583 UTC [4693] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:39:13.585 UTC [4693] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:39:13.587 UTC [4693] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.003 user=postgres database=comercial host=[local]
+2026-11-17 01:39:19.019 UTC [4701] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:39:19.068 UTC [4701] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:39:19.071 UTC [4701] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.052 user=postgres database=comercial host=[local]
+2026-11-17 01:39:24.306 UTC [4709] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:39:24.308 UTC [4709] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:39:24.310 UTC [4709] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:39:28.927 UTC [4718] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:39:28.937 UTC [4718] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:39:28.940 UTC [4718] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:39:34.356 UTC [4726] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:39:34.367 UTC [4726] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:39:34.370 UTC [4726] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:39:39.602 UTC [4734] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:39:39.603 UTC [4734] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:39:39.605 UTC [4734] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.003 user=postgres database=comercial host=[local]
+2026-11-17 01:39:44.957 UTC [4743] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:39:44.959 UTC [4743] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:39:44.962 UTC [4743] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:39:50.361 UTC [4751] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:39:50.364 UTC [4751] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:39:50.366 UTC [4751] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:39:55.683 UTC [4759] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:39:55.685 UTC [4759] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:39:55.688 UTC [4759] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:39:59.975 UTC [4767] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:39:59.977 UTC [4767] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:39:59.980 UTC [4767] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:40:05.286 UTC [4776] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:40:05.288 UTC [4776] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:40:05.290 UTC [4776] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:40:10.677 UTC [4784] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:40:10.680 UTC [4784] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:40:10.682 UTC [4784] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:40:15.936 UTC [4792] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:40:15.939 UTC [4792] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:40:15.941 UTC [4792] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:40:21.170 UTC [4800] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:40:21.172 UTC [4800] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:40:21.174 UTC [4800] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:40:26.485 UTC [4809] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:40:26.487 UTC [4809] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:40:26.489 UTC [4809] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:40:31.141 UTC [4817] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:40:31.143 UTC [4817] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:40:31.146 UTC [4817] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:40:36.455 UTC [4825] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:40:36.457 UTC [4825] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:40:36.459 UTC [4825] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:40:41.731 UTC [4833] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:40:41.734 UTC [4833] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:40:41.736 UTC [4833] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:40:47.044 UTC [4843] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:40:47.046 UTC [4843] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:40:47.048 UTC [4843] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:40:52.276 UTC [4851] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:40:52.278 UTC [4851] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:40:52.280 UTC [4851] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:40:57.511 UTC [4858] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:40:57.513 UTC [4858] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:40:57.516 UTC [4858] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:41:01.490 UTC [4866] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:41:01.492 UTC [4866] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:41:01.494 UTC [4866] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:41:06.806 UTC [4875] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:41:06.809 UTC [4875] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:41:06.820 UTC [4875] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.014 user=postgres database=comercial host=[local]
+2026-11-17 01:41:12.225 UTC [4883] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:41:12.227 UTC [4883] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:41:12.230 UTC [4883] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.006 user=postgres database=comercial host=[local]
+2026-11-17 01:41:17.492 UTC [4891] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:41:17.493 UTC [4891] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:41:17.496 UTC [4891] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:41:22.754 UTC [4899] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:41:22.756 UTC [4899] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:41:22.764 UTC [4899] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.010 user=postgres database=comercial host=[local]
+2026-11-17 01:41:28.072 UTC [4908] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:41:28.074 UTC [4908] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:41:28.077 UTC [4908] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:41:33.118 UTC [4916] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:41:33.121 UTC [4916] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:41:33.124 UTC [4916] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:41:38.667 UTC [4924] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:41:38.669 UTC [4924] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:41:38.672 UTC [4924] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:41:44.243 UTC [4933] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:41:44.254 UTC [4933] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:41:44.257 UTC [4933] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.014 user=postgres database=comercial host=[local]
+2026-11-17 01:41:49.869 UTC [4941] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:41:49.871 UTC [4941] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:41:49.873 UTC [4941] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:41:55.329 UTC [4949] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:41:55.331 UTC [4949] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:41:55.342 UTC [4949] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:42:00.694 UTC [4957] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:42:00.695 UTC [4957] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:42:00.706 UTC [4957] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:42:04.965 UTC [4966] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:42:04.967 UTC [4966] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:42:04.969 UTC [4966] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:42:10.435 UTC [4974] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:42:10.436 UTC [4974] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:42:10.440 UTC [4974] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:42:15.823 UTC [4983] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:42:15.824 UTC [4983] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:42:15.827 UTC [4983] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:42:21.068 UTC [4991] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:42:21.069 UTC [4991] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:42:21.072 UTC [4991] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:42:26.374 UTC [5000] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:42:26.375 UTC [5000] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:42:26.378 UTC [5000] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:42:31.742 UTC [5008] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:42:31.744 UTC [5008] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:42:31.746 UTC [5008] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:42:35.866 UTC [5016] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:42:35.868 UTC [5016] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:42:35.870 UTC [5016] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.003 user=postgres database=comercial host=[local]
+2026-11-17 01:42:41.033 UTC [5024] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:42:41.035 UTC [5024] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:42:41.036 UTC [5024] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.003 user=postgres database=comercial host=[local]
+2026-11-17 01:42:46.223 UTC [5033] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:42:46.225 UTC [5033] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:42:46.228 UTC [5033] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:42:51.411 UTC [5041] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:42:51.427 UTC [5041] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:42:51.429 UTC [5041] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.017 user=postgres database=comercial host=[local]
+2026-11-17 01:42:56.618 UTC [5049] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:42:56.620 UTC [5049] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:42:56.622 UTC [5049] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:43:01.835 UTC [5058] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:43:01.838 UTC [5058] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:43:01.841 UTC [5058] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.006 user=postgres database=comercial host=[local]
+2026-11-17 01:43:05.892 UTC [5067] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:43:05.895 UTC [5067] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:43:05.909 UTC [5067] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.017 user=postgres database=comercial host=[local]
+2026-11-17 01:43:11.110 UTC [5075] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:43:11.112 UTC [5075] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:43:11.114 UTC [5075] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:43:16.361 UTC [5083] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:43:16.364 UTC [5083] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:43:16.367 UTC [5083] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:43:21.630 UTC [5091] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:43:21.631 UTC [5091] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:43:21.634 UTC [5091] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:43:27.199 UTC [5100] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:43:27.200 UTC [5100] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:43:27.204 UTC [5100] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:43:32.572 UTC [5108] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:43:32.574 UTC [5108] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:43:32.577 UTC [5108] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:43:36.460 UTC [5116] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:43:36.461 UTC [5116] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:43:36.463 UTC [5116] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.003 user=postgres database=comercial host=[local]
+2026-11-17 01:43:41.767 UTC [5124] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:43:41.769 UTC [5124] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:43:41.772 UTC [5124] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.006 user=postgres database=comercial host=[local]
+2026-11-17 01:43:47.266 UTC [5133] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:43:47.268 UTC [5133] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:43:47.270 UTC [5133] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:43:52.839 UTC [5141] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:43:52.842 UTC [5141] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:43:52.845 UTC [5141] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.006 user=postgres database=comercial host=[local]
+2026-11-17 01:43:58.164 UTC [5149] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:43:58.176 UTC [5149] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:43:58.179 UTC [5149] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.015 user=postgres database=comercial host=[local]
+2026-11-17 01:44:03.474 UTC [5157] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:44:03.476 UTC [5157] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:44:03.478 UTC [5157] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:44:07.698 UTC [5166] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:44:07.708 UTC [5166] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:44:07.712 UTC [5166] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.014 user=postgres database=comercial host=[local]
+2026-11-17 01:44:13.051 UTC [5174] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:44:13.052 UTC [5174] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:44:13.054 UTC [5174] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.003 user=postgres database=comercial host=[local]
+2026-11-17 01:44:18.376 UTC [5182] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:44:18.378 UTC [5182] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:44:18.380 UTC [5182] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:44:23.577 UTC [5190] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:44:23.579 UTC [5190] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:44:23.589 UTC [5190] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.012 user=postgres database=comercial host=[local]
+2026-11-17 01:44:28.924 UTC [5199] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:44:28.926 UTC [5199] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:44:28.928 UTC [5199] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.003 user=postgres database=comercial host=[local]
+2026-11-17 01:44:34.173 UTC [5207] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:44:34.174 UTC [5207] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:44:34.177 UTC [5207] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:44:38.286 UTC [5215] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:44:38.287 UTC [5215] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:44:38.290 UTC [5215] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:44:43.650 UTC [5223] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:44:43.652 UTC [5223] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:44:43.656 UTC [5223] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.006 user=postgres database=comercial host=[local]
+2026-11-17 01:44:48.946 UTC [5232] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:44:48.948 UTC [5232] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:44:48.951 UTC [5232] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:44:54.275 UTC [5240] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:44:54.277 UTC [5240] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:44:54.280 UTC [5240] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:44:59.525 UTC [5248] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:44:59.527 UTC [5248] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:44:59.530 UTC [5248] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:45:04.810 UTC [5257] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:45:04.811 UTC [5257] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:45:04.814 UTC [5257] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:45:08.956 UTC [5265] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:45:08.958 UTC [5265] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:45:08.964 UTC [5265] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.008 user=postgres database=comercial host=[local]
+2026-11-17 01:45:14.351 UTC [5273] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:45:14.353 UTC [5273] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:45:14.364 UTC [5273] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:45:19.642 UTC [5281] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:45:19.644 UTC [5281] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:45:19.647 UTC [5281] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:45:24.992 UTC [5289] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:45:24.994 UTC [5289] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:45:24.997 UTC [5289] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:45:30.378 UTC [5298] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:45:30.380 UTC [5298] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:45:30.383 UTC [5298] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.014 user=postgres database=comercial host=[local]
+2026-11-17 01:45:35.780 UTC [5306] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:45:35.782 UTC [5306] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:45:35.794 UTC [5306] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.014 user=postgres database=comercial host=[local]
+2026-11-17 01:45:40.044 UTC [5314] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:45:40.046 UTC [5314] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:45:40.066 UTC [5314] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.030 user=postgres database=comercial host=[local]
+2026-11-17 01:45:45.361 UTC [5322] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:45:45.362 UTC [5322] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:45:45.365 UTC [5322] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:45:50.759 UTC [5330] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:45:50.761 UTC [5330] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:45:50.763 UTC [5330] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:45:56.081 UTC [5338] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:45:56.083 UTC [5338] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:45:56.085 UTC [5338] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:46:01.278 UTC [5346] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:46:01.279 UTC [5346] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:46:01.281 UTC [5346] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.003 user=postgres database=comercial host=[local]
+2026-11-17 01:46:06.655 UTC [5355] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:46:06.657 UTC [5355] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:46:06.661 UTC [5355] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:46:10.832 UTC [5363] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:46:10.834 UTC [5363] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:46:10.845 UTC [5363] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:46:16.189 UTC [5371] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:46:16.190 UTC [5371] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:46:16.193 UTC [5371] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:46:21.588 UTC [5379] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:46:21.590 UTC [5379] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:46:21.592 UTC [5379] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:46:26.914 UTC [5389] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:46:26.916 UTC [5389] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:46:26.918 UTC [5389] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:46:32.318 UTC [5397] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:46:32.319 UTC [5397] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:46:32.322 UTC [5397] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:46:37.714 UTC [5405] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:46:37.716 UTC [5405] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:46:37.719 UTC [5405] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:46:41.755 UTC [5413] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:46:41.757 UTC [5413] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:46:41.768 UTC [5413] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:46:47.018 UTC [5422] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:46:47.020 UTC [5422] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:46:47.022 UTC [5422] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:46:52.355 UTC [5430] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:46:52.367 UTC [5430] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:46:52.369 UTC [5430] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.014 user=postgres database=comercial host=[local]
+2026-11-17 01:46:57.678 UTC [5438] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:46:57.680 UTC [5438] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:46:57.682 UTC [5438] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:47:02.898 UTC [5446] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:47:02.899 UTC [5446] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:47:02.901 UTC [5446] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.003 user=postgres database=comercial host=[local]
+2026-11-17 01:47:08.121 UTC [5455] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:47:08.123 UTC [5455] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:47:08.125 UTC [5455] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:47:12.094 UTC [5463] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:47:12.096 UTC [5463] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:47:12.099 UTC [5463] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:47:17.377 UTC [5471] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:47:17.379 UTC [5471] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:47:17.384 UTC [5471] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.007 user=postgres database=comercial host=[local]
+2026-11-17 01:47:22.604 UTC [5479] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:47:22.606 UTC [5479] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:47:22.609 UTC [5479] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:47:27.906 UTC [5488] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:47:27.908 UTC [5488] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:47:27.919 UTC [5488] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.013 user=postgres database=comercial host=[local]
+2026-11-17 01:47:33.466 UTC [5496] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:47:33.490 UTC [5496] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:47:33.509 UTC [5496] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.044 user=postgres database=comercial host=[local]
+2026-11-17 01:47:38.705 UTC [5504] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:47:38.707 UTC [5504] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:47:38.710 UTC [5504] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:47:43.022 UTC [5512] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:47:43.025 UTC [5512] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:47:43.039 UTC [5512] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.017 user=postgres database=comercial host=[local]
+2026-11-17 01:47:48.343 UTC [5521] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:47:48.344 UTC [5521] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:47:48.346 UTC [5521] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.003 user=postgres database=comercial host=[local]
+2026-11-17 01:47:53.610 UTC [5529] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:47:53.612 UTC [5529] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:47:53.614 UTC [5529] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:47:58.891 UTC [5537] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:47:58.893 UTC [5537] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:47:58.896 UTC [5537] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:48:04.189 UTC [5546] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:48:04.191 UTC [5546] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:48:04.193 UTC [5546] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:48:09.384 UTC [5554] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:48:09.385 UTC [5554] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:48:09.388 UTC [5554] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:48:13.524 UTC [5562] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:48:13.526 UTC [5562] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:48:13.528 UTC [5562] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:48:18.768 UTC [5570] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:48:18.769 UTC [5570] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:48:18.772 UTC [5570] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:48:23.958 UTC [5578] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:48:23.959 UTC [5578] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:48:23.962 UTC [5578] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:48:29.277 UTC [5587] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:48:29.278 UTC [5587] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:48:29.282 UTC [5587] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.005 user=postgres database=comercial host=[local]
+2026-11-17 01:48:34.573 UTC [5595] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:48:34.574 UTC [5595] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:48:34.576 UTC [5595] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.003 user=postgres database=comercial host=[local]
+2026-11-17 01:48:38.289 UTC [5602] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:48:38.292 UTC [5602] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=psql
+2026-11-17 01:48:38.328 UTC [5602] user=postgres db=comercial app=psql client=[local] LOG:  disconnection: session time: 0:00:00.038 user=postgres database=comercial host=[local]
+2026-11-17 01:48:39.829 UTC [5610] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:48:39.831 UTC [5610] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:48:39.833 UTC [5610] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:48:43.676 UTC [5619] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:48:43.679 UTC [5619] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:48:43.682 UTC [5619] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.006 user=postgres database=comercial host=[local]
+2026-11-17 01:48:48.987 UTC [5627] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:48:48.990 UTC [5627] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:48:48.993 UTC [5627] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.006 user=postgres database=comercial host=[local]
+2026-11-17 01:48:54.309 UTC [5635] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:48:54.312 UTC [5635] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:48:54.324 UTC [5635] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.015 user=postgres database=comercial host=[local]
+2026-11-17 01:48:59.520 UTC [5643] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:48:59.522 UTC [5643] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:48:59.525 UTC [5643] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.006 user=postgres database=comercial host=[local]
+2026-11-17 01:49:04.681 UTC [5653] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:49:04.683 UTC [5653] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:49:04.685 UTC [5653] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:49:09.859 UTC [5661] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:49:09.861 UTC [5661] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:49:09.863 UTC [5661] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:49:15.035 UTC [5669] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:49:15.036 UTC [5669] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:49:15.039 UTC [5669] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:49:18.962 UTC [5677] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:49:18.964 UTC [5677] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:49:18.966 UTC [5677] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.003 user=postgres database=comercial host=[local]
+2026-11-17 01:49:24.145 UTC [5685] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:49:24.147 UTC [5685] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:49:24.150 UTC [5685] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:49:29.389 UTC [5694] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:49:29.391 UTC [5694] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:49:29.393 UTC [5694] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:49:34.558 UTC [5702] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:49:34.560 UTC [5702] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=pg_isready
+2026-11-17 01:49:34.562 UTC [5702] user=postgres db=comercial app=pg_isready client=[local] LOG:  disconnection: session time: 0:00:00.004 user=postgres database=comercial host=[local]
+2026-11-17 01:49:35.526 UTC [5709] user=[unknown] db=[unknown] app=[unknown] client=[local] LOG:  connection received: host=[local]
+2026-11-17 01:49:35.527 UTC [5709] user=postgres db=comercial app=[unknown] client=[local] LOG:  connection authorized: user=postgres database=comercial application_name=psql
+
